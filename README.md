@@ -12,7 +12,12 @@
 - 🤔 I’m looking for help with ...
 
 ---
+## Some of my Interests
+
+---
+## My Stats
 <div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cdethant&theme=github_dark" alt="[Your Name]'s GitHub Stats"/>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cdethant/cdethant/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cdethant/cdethant/output/github-contribution-grid-snake.svg">
