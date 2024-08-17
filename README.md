@@ -13,16 +13,15 @@
 
 ---
 <div align="center">
-  My Github commits
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cdethant/cdethant/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cdethant/cdethant/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/cdethant/cdethant/output/github-contribution-grid-snake.svg">
-</picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cdethant/cdethant/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cdethant/cdethant/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/cdethant/cdethant/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
 
 ---
-
+<div class ="badges" align ="center">
 <a href="">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>
@@ -34,7 +33,8 @@
 </a>
 <br>
 <img src="https://komarev.com/ghpvc/?username=cdethant&style=flat-square&color=blue" alt=""/>
-  
+</div>
+
 <!--
 **cdethant/cdethant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
