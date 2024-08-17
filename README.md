@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <div align ="center">
-  <img src="https://tenor.com/view/experiment-lab-chemistry-chemical-gif-17735658.mp4" alt="Lab gif"/>
+  <img src="https://tenor.com/view/experiment-lab-chemistry-chemical-gif-17735658.gif" alt="Lab gif"/>
 </div>
 
 ---
