@@ -1,12 +1,12 @@
 ## Hi there 👋
 
-<div>
-  <img src="https://tenor.com/view/experiment-lab-chemistry-chemical-gif-17735658" alt="Lab gif"/>
+<div align ="center">
+  <img src="https://tenor.com/view/experiment-lab-chemistry-chemical-gif-17735658.gif" alt="Lab gif"/>
 </div>
 
 ---
 ##About Me
-- 🔭 I’m studying as a Biomedical Engineering Undergraduate 
+- 🔭 I’m studying as a Biomedical Engineering Undergraduate
 - 🌱 I’m currently learning to develop [neural networks](https://www.google.com)
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
