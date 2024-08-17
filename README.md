@@ -5,7 +5,7 @@
 </div>
 
 ---
-##About Me
+## About Me
 - 🔭 I’m studying as a Biomedical Engineering Undergraduate
 - 🌱 I’m currently learning to develop [neural networks](https://www.google.com)
 - 👯 I’m looking to collaborate on ...
