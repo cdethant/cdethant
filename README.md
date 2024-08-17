@@ -9,7 +9,9 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/cdethant/cdethant/output/github-contribution-grid-snake.svg">
 </picture>
 </div>
+
 ---
+
 <a href="">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>
