@@ -7,16 +7,26 @@
 ## About Me
 - 🔭 I’m studying as a Biomedical Engineering Undergraduate
 - 🌱 I’m currently learning to develop [neural networks](https://www.google.com)
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
 
+  
 ---
 ## Some of my Interests
+<p>I thoroughly enjoy learning new skills and anything that might challenge me to learn new skills. Whether in or out of my comfort zone, you will catch me asking many questions and looking up different answers. Building and developing a variety off new things brings me tons of satisfaction.</p>
+
+Some examples of brand new things I am trying to learn are:
+- 3D and Full Stack Web Development
+- Neural Networks and Deep learning
+
+In my free time, I enjoy:
+- Reading 📚
+- Tinkering 🛠️
 
 ---
 ## My Stats
+<br/>
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cdethant&theme=github_dark" alt="[Your Name]'s GitHub Stats"/>
+  <br/>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cdethant/cdethant/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cdethant/cdethant/output/github-contribution-grid-snake.svg">
@@ -38,18 +48,3 @@
 <br>
 <img src="https://komarev.com/ghpvc/?username=cdethant&style=flat-square&color=blue" alt=""/>
 </div>
-
-<!--
-**cdethant/cdethant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
