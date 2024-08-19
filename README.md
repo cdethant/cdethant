@@ -1,7 +1,9 @@
-## Hi there 👋
-
-<div align ="center">
-  <img src="https://tenor.com/view/experiment-lab-chemistry-chemical-gif-17735658.gif" alt="Lab gif"/>
+<div align = "center">
+<h1>ETHAN THAI</h1>
+</div>
+---
+<div align = "center">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHhzNXpxMjJkNXZjYnZhM295MGI1ZHE0bWo2bDFrengzYTQ3d3pnOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mGf5XAMiX4WUCocW2O/giphy.gif" alt="Lab gif"/>
 </div>
 
 ---
