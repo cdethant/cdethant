@@ -15,22 +15,8 @@
 
 ---
 ## About Me
-- 🔭 I’m an Electrical Engineering Undergraduate, interested in Computer Vision, Electrodynamics, and Electrophysiology
-- 🌱 I’m currently developing [neural networks](https://www.google.com) and [Medical Device Designs]
-
-  
----
-## Some of my Interests
-<p>I thoroughly enjoy learning new skills and anything that might challenge me to learn new skills. Whether in or out of my comfort zone, you will catch me asking many questions and looking up different answers. Building and developing a variety off new things brings me tons of satisfaction.</p>
-
-Some examples of brand new things I am trying to learn are:
-- 3D and Full Stack Web Development
-- Neural Networks and Deep learning
-
-In my free time, I enjoy:
-- Reading 📚
-- Tinkering 🛠️
-
+- Neural Nets, Dynamical Systems, Lumped Element Models;
+- Particle physics, Electrophysiology, Biomagnetism.
 ---
 ## My Stats
 <br/>
