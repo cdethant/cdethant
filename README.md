@@ -2,9 +2,6 @@
   <h1>ETHAN THAI</h1>
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHhzNXpxMjJkNXZjYnZhM295MGI1ZHE0bWo2bDFrengzYTQ3d3pnOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mGf5XAMiX4WUCocW2O/giphy.gif" alt="Lab gif"/>
   <div class="badges" align="center">
-  <a href="www.linkedin.com/in/ethan-thai-412aa7305">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
   <a href ="mailto:u1440721@umail.utah.edu">
     <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=Gmail&logoColor=white" alt="Email Badge"/>
   </a>
@@ -15,8 +12,7 @@
 
 ---
 ## About Me
-- Neural Nets, Dynamical Systems, Lumped Element Models;
-- Particle physics, Electrophysiology, Biomagnetism.
+semi locked in
 ---
 ## My Stats
 <br/>
